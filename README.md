@@ -1,4 +1,4 @@
-Brick Breaker is a simple arcade-style game written in Python using Pygame. The player controls a paddle to bounce a ball and break bricks while avoiding letting the ball fall off the screen. The game features full-screen mode, animated sprites, custom backgrounds, and a clean graphical interface.
+PaddleGame is a simple arcade-style game written in Python using Pygame. The player controls a paddle to bounce a ball and break bricks while avoiding letting the ball fall off the screen. The game features full-screen mode, animated sprites, custom backgrounds, and a clean graphical interface.
 
 Features
 
